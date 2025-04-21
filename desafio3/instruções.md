@@ -13,5 +13,3 @@ tipo heroi e ataques:
 - ninja -> usou shuriken
 
 no final o programa deve exibir a mensagem 'o [tipo_heroi] atacou usando [ataque_usado]'
-
-Escrevendo as classes de um jogo. Projeto do desafio passado no curso de lógica de programação da plataforma DIO
