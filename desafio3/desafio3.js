@@ -23,6 +23,6 @@ class heroi{
     }
 }
 
-let heroi1 = new heroi("Pâmela", 20, "guerreiro")
+let heroi1 = new heroi("Pâmela", 20, "ninja")
 
 heroi1.atacar()
