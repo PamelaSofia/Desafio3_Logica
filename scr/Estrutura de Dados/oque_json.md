@@ -1,0 +1,5 @@
+- agrupamento de dados(estrutura de dados) para agrupar tudo de forma mais organizada
+- guarda um conjunto de dados e trasporta eles de um lugar para outro de forma agrupada e organizada
+- JSON - JavaScript Object Notation (notação de objetos em javascript)
+- json é um objeto simples composto por chave e valor com o objetivo de transferir dados
+- declaramos o json como uma variável, tudo que estiver entre '{}' será o escopo, dentro dele declaramos chave(nome identificador) e valor (valor do identificador)
