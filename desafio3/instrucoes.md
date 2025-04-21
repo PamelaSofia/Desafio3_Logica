@@ -7,9 +7,9 @@ deve conter um método chamado 'atacar' que deve atender aos seguintes requisito
 - e o 'ataque_usado' deve seguir uma descrição diferente conforme o tipo
 
 tipo heroi e ataques:
-- mago -> usou magia
-- guerreiro -> usou espada
-- monge -> usou artes marciais
-- ninja -> usou shuriken
+- mago -> usa magia
+- guerreiro -> usa espada
+- monge -> usa artes marciais
+- ninja -> usa shuriken
 
 no final o programa deve exibir a mensagem 'o [tipo_heroi] ataca usando [ataque_usado]'
