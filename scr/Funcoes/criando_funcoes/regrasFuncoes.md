@@ -1,7 +1,0 @@
-- os nomes das funções não podem começar com números
-- os nomes das funções não podem ter espaços ou acentos
-- dê o nome da função de acordo com a ação que ela realiza
-- faça uma função para cada coisa, não faça tudo em uma única função (fica mais fácil arrumar e analisar quando separada)
-- sempre lembrar de usar a IDENTAÇÃO, onde dentro das funções damos um 'tab' para conseguirmos separar melhor o título da função e seu escopo
-- caso tivermos um 'if' dentro de uma função, o começo do if ficaria com o espaçamento normal mas o seu escopo precisaria de um 'tab'
-- sempre que abrimos uma chave '{}', devemos colocar uma nova identação 'tab' no escopo 
